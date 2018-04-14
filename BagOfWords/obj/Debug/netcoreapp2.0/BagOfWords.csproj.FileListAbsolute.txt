@@ -1,0 +1,11 @@
+/Users/leo/Documents/BagOfWords/BagOfWords/bin/Debug/netcoreapp2.0/BagOfWords.deps.json
+/Users/leo/Documents/BagOfWords/BagOfWords/bin/Debug/netcoreapp2.0/BagOfWords.runtimeconfig.json
+/Users/leo/Documents/BagOfWords/BagOfWords/bin/Debug/netcoreapp2.0/BagOfWords.runtimeconfig.dev.json
+/Users/leo/Documents/BagOfWords/BagOfWords/bin/Debug/netcoreapp2.0/BagOfWords.dll
+/Users/leo/Documents/BagOfWords/BagOfWords/bin/Debug/netcoreapp2.0/BagOfWords.pdb
+/Users/leo/Documents/BagOfWords/BagOfWords/obj/Debug/netcoreapp2.0/BagOfWords.csprojResolveAssemblyReference.cache
+/Users/leo/Documents/BagOfWords/BagOfWords/obj/Debug/netcoreapp2.0/BagOfWords.csproj.CoreCompileInputs.cache
+/Users/leo/Documents/BagOfWords/BagOfWords/obj/Debug/netcoreapp2.0/BagOfWords.AssemblyInfoInputs.cache
+/Users/leo/Documents/BagOfWords/BagOfWords/obj/Debug/netcoreapp2.0/BagOfWords.AssemblyInfo.cs
+/Users/leo/Documents/BagOfWords/BagOfWords/obj/Debug/netcoreapp2.0/BagOfWords.dll
+/Users/leo/Documents/BagOfWords/BagOfWords/obj/Debug/netcoreapp2.0/BagOfWords.pdb
